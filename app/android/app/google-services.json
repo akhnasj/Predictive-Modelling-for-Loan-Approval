@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521451008842",
+    "project_id": "pmla-36f27",
+    "storage_bucket": "pmla-36f27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521451008842:android:39f065be461cbc8acc47b3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsPoUPvV3Wn7KkWpuMnhLfqY_Bagp_ySQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
